@@ -1,0 +1,8 @@
+#typewriter span {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+#typewriter span.visible {
+    opacity: 1;
+}
